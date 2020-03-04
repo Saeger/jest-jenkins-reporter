@@ -1,4 +1,5 @@
 
+> This project is now maintained by [Digital Route](https://github.com/digitalroute). The future developement and maintenance will be continuted in [Digital Route's repo](https://github.com/digitalroute/jest-jenkins-reporter).
 
 # jest-jenkins-reporter
 
